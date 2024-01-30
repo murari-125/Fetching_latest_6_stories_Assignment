@@ -1,1 +1,1 @@
-# Fetching_latest_6_stories_Assignment
+In this php file we extract top 6 stories from the data collected from the URL()
