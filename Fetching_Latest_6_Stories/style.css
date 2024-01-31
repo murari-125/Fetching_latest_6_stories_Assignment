@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #333;
+}
+
+.story {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.story p {
+    margin: 0;
+    padding: 5px 0;
+}
+
+.story a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.story a:hover {
+    text-decoration: underline;
+}
